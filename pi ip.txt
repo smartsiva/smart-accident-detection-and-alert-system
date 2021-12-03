@@ -1,0 +1,10 @@
+192.168.43.211
+
+mysql -u root -p
+null password
+
+USE Hospital;
+
+SHOW TABLES;
+
+
